@@ -1,0 +1,16 @@
+{
+  "artifact_class": "native_style_recreated_signoff",
+  "generated_at": "2026-08-11T16:39:00-05:00",
+  "native_tool_output": false,
+  "technology": "16 nm FinFET",
+  "historical_design": "cryptographic core",
+  "documented_achieved_frequency_mhz": 228.0,
+  "derived_period_ns": 4.385964912280702,
+  "documented_drc_status": "resolved",
+  "documented_lvs_status": "resolved",
+  "wns_ns": null,
+  "tns_ns": null,
+  "area": null,
+  "power": null,
+  "historical_tool_identity": null
+}

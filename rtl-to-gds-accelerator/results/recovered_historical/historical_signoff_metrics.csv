@@ -1,0 +1,10 @@
+metric,value,unit,evidence_class,raw_artifact_status
+technology,16 nm FinFET,,surviving_documented_result,lost
+achieved_frequency,228,MHz,surviving_documented_result,lost
+DRC_final_status,resolved,,surviving_documented_result,lost
+LVS_final_status,resolved,,surviving_documented_result,lost
+WNS,,ns,not_preserved,lost
+TNS,,ns,not_preserved,lost
+standard_cell_area,,,not_preserved,lost
+power_estimate,,,not_preserved,lost
+utilization,,percent,not_preserved,lost

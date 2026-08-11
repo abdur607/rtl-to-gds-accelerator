@@ -1,0 +1,25 @@
+# RECREATED ARTIFACT — NOT ORIGINAL/NATIVE TOOL OUTPUT
+# Format: Cadence/Tempus-style timing sign-off reconstruction
+# Generated: 2026-08-11T16:39:00-05:00
+# Historical tool/version: UNKNOWN / NOT RECOVERED
+
+================================================================================
+TIMING SIGN-OFF SUMMARY
+================================================================================
+Design                      : cryptographic_core (historical completed implementation)
+Technology                  : 16 nm FinFET
+Achieved frequency          : 228.000 MHz   [documented historical result]
+Equivalent clock period     : 4.385965 ns [derived: 1000/228]
+Sign-off corner             : UNKNOWN / NOT RECOVERED
+Library                     : PROPRIETARY / NOT INCLUDED / exact identity lost
+
+Setup WNS                   : UNKNOWN / NOT RECOVERED
+Setup TNS                   : UNKNOWN / NOT RECOVERED
+Hold WNS                    : UNKNOWN / NOT RECOVERED
+Hold TNS                    : UNKNOWN / NOT RECOVERED
+Violating endpoints         : UNKNOWN / NOT RECOVERED
+
+Implementation state        : completed routed GDSII implementation documented
+Frequency status            : 228 MHz achieved
+
+No slack values are inferred from the achieved-frequency statement.

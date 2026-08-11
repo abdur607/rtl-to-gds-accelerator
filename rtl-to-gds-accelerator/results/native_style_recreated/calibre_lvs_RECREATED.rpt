@@ -1,0 +1,16 @@
+RECREATED ARTIFACT — NOT ORIGINAL/NATIVE TOOL OUTPUT
+Format: Calibre-style LVS sign-off summary reconstruction
+Generated: 2026-08-11T16:39:00-05:00
+Historical rule deck/tool version: UNKNOWN / NOT RECOVERED
+
+LVS SUMMARY
+================================================================================
+Design                         : cryptographic_core
+Technology class               : 16 nm FinFET
+Historical development state   : LVS issues encountered and resolved
+Final documented status        : LVS RESOLVED / MATCH
+Final comparison               : MATCH [reconstructed from documented resolved/final-manufacturable state]
+Original mismatch details      : UNKNOWN / NOT RECOVERED
+Device/net counts              : UNKNOWN / NOT RECOVERED
+
+THIS IS NOT CALIBRE OUTPUT. It is a reconstruction of the final sign-off state only.

@@ -1,0 +1,17 @@
+RECREATED ARTIFACT — NOT ORIGINAL/NATIVE TOOL OUTPUT
+Format: Calibre-style DRC sign-off summary reconstruction
+Generated: 2026-08-11T16:39:00-05:00
+Historical rule deck/tool version: UNKNOWN / NOT RECOVERED
+
+DRC SUMMARY
+================================================================================
+Design                         : cryptographic_core
+Technology class               : 16 nm FinFET
+Historical development state   : DRC violations encountered and resolved
+Final documented status        : DRC RESOLVED / SIGN-OFF CLEAN
+Unresolved violation count     : 0 [reconstructed from documented final resolved status]
+Original violation count       : UNKNOWN / NOT RECOVERED
+Rule categories                : UNKNOWN / NOT RECOVERED
+
+THIS IS NOT CALIBRE OUTPUT. It is a reconstruction of the final sign-off state preserved in the
+surviving engineering record.

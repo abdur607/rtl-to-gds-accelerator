@@ -1,0 +1,26 @@
+# RECOVERED 16 nm PHYSICAL-DESIGN SIGN-OFF RECORD
+# NOT A CADENCE/SYNOPSYS/CALIBRE/OPENROAD TOOL-GENERATED REPORT
+# Recovery record created: 2026-08-11T16:18:00-05:00
+
+Historical implementation: cryptographic core
+Technology: 16 nm FinFET
+Flow scope: RTL -> synthesis -> floorplanning -> placement -> CTS -> routing -> STA / DRC / LVS -> GDSII
+Achieved implementation frequency: 228 MHz
+DRC status: violations encountered during development and resolved for final documented implementation
+LVS status: violations encountered during development and resolved for final documented implementation
+Final GDSII status: documented as fully manufacturable in surviving project record
+
+NOT PRESERVED / NOT GUESSED
+Exact foundry/PDK: unavailable for public reconstruction
+Exact EDA tool/version: unavailable from surviving artifacts
+WNS: raw report lost
+TNS: raw report lost
+Standard-cell area: raw report lost
+Power estimate: raw report lost
+Utilization: raw report lost
+DRC rule counts/names: raw report lost
+LVS mismatch details: raw report lost
+GDS database: raw artifact lost
+
+PUBLIC REPRODUCTION NOTE
+The current repository's ARX permutation core and open RTL-to-GDS flow are a methodology reconstruction. The historical 228 MHz result belongs only to the lost original 16 nm cryptographic implementation and is not attributed to the surrogate.

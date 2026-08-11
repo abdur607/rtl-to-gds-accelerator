@@ -1,0 +1,9 @@
+{
+  "DESIGN_NAME": "arx_permutation_core",
+  "VERILOG_FILES": ["dir::../../rtl/arx_permutation_core.sv"],
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 10.0,
+  "FP_CORE_UTIL": 45,
+  "PL_TARGET_DENSITY_PCT": 50,
+  "RUN_HEURISTIC_DIODE_INSERTION": true
+}
