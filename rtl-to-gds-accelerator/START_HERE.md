@@ -76,11 +76,3 @@ Under `results/native_style_recreated/`:
 - `signoff_manifest_RECREATED.json`
 
 The recovered historical records remain under `results/recovered_historical/` and `results/signoff/`.
-
-## Before pushing to GitHub
-
-```bash
-make test
-python3 scripts/publication_check.py
-python3 scripts/ppa_table.py results/ppa_template.csv
-```
